@@ -1,3 +1,3 @@
 ### Hi
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<IT-Tl>/<IT-Tl>/readme_header.png "Header")](https://i.imgur.com/ZnTPKF6.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Tl)](https://github.com/anuraghazra/github-readme-stats)
 
