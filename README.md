@@ -1,3 +1,3 @@
-### Hi
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Tl)](https://github.com/anuraghazra/github-readme-stats)
+### Hi 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Tl&show_icons=true&theme=dark)
 
