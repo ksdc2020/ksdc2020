@@ -3,4 +3,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Tl&show_icons=true&theme=dark&count_private)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Tl&theme=dark&show_icons=true&count_private)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe src="https://open.spotify.com/embed/playlist/6il9wuPoFKyDH30Wma9G0m" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
