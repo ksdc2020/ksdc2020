@@ -7,3 +7,4 @@
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Richienb/Richienb/raw/master/info.svg?sanitize=true"></a>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=IT-Tl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
