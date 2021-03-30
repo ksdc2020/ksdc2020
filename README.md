@@ -1,6 +1,6 @@
 ### Hi 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=IT-Tl&column=7&theme=gruvbox&no-frame=true"/>
 </a>
 
 ---
