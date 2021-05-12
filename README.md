@@ -1,9 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ksdc2020)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksdc2020&layout=compact&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksdc2020&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ksdc2020&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksdc2020&hide=css&theme=dark)
 
 
 <div align="center">
